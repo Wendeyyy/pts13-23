@@ -1,0 +1,97 @@
+*, html, body {
+    margin: 1%;
+    padding: 0;
+  }
+  
+  .container {
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid white;
+  }
+  
+  header {
+    width: 98%;
+    height: 100px;
+    background-color: #9BCF0B;
+    text-align: center;
+  }
+  
+  .b {
+    width: 48%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .c {
+    width: 48%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: right;
+    text-align: center;
+  }
+  
+  .d {
+    width: 31.3%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .e {
+    width: 31.3%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .f {
+    width: 31.3%;
+    height: 100px;
+    background-color:#9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .g {
+    width: 23%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .h {
+    width: 23%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .i {
+    width: 23%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .j {
+    width: 23%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }
+  
+  .a {
+    width: 100%;
+    height: 100px;
+    background-color: #9BCF0B;
+    float: left;
+    text-align: center;
+  }

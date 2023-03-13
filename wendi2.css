@@ -1,0 +1,13 @@
+  h1 {
+    background-color: yellow;
+    width: fit-content;
+    padding: 6px;
+    margin: 5px;
+}
+
+.text {
+    background-color: blue;
+    margin: 100px;
+    padding: 50px;
+    width: fit-content;
+}
